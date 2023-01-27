@@ -9,4 +9,4 @@ y nos dieron estos data:
 Se proveen los siguientes archivos en formato parquet:
 'tren.parquet': Contiene 346479 registros y 22 dimensiones, el cual incluye la información numérica del precio en la columna price.
 'test.csv': Contiene 38498 registros y 21 dimensiones, el cual no incluye la información del precio.
-Enlace al conjunto de datos: https://drive.google.com/drive/folders/1nJ9ZMj6E6zh6McC9NwCA6KopfUIOG_1O
+Enlace al conjunto de datos: https://drive.google.com/drive/folders/1nJ9ZMj6E6zh6McC9NwCA6KopfUIOG_1O 
